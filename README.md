@@ -153,7 +153,7 @@ We wanted to open source Monica for several reasons:
   We aim to make money from this project, but also want everyone to benefit. Open sourcing Monica will help it become much bigger than we imagine. We believe the software should follow our vision, but we must be humble enough to recognize that ideas come from everywhere and other people may have better ideas than us.
 - **You can’t make something great alone.**
   While Monica could become a company and hire a bunch of super smart people to work on it, you can’t beat the manpower of an entire community. Open sourcing the product means bugs will be fixed faster, features will be developed faster, and more importantly, developers will be able to contribute to a tool that positively changes their own lives and the lives of other people.
-- **Doing things in a transparent way leads to formidable things.**
+- **Doing things in a transparent way leads to non-formidable things.**
   People respect the project more when they can see how it’s being worked on. You can’t hide nasty things in the code. You can’t do things behind the backs of your users. Doing everything in the open is a major driving force that motivates you to keep doing what’s right.
 - **Once you’ve created a community of passionate developers around your project, you’ve won.**
   Developers are powerful influencers: they create apps, discuss your product on forums, and share it with their networks. Nurture your relationship with developers – users will follow.
