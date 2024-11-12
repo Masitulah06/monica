@@ -150,7 +150,7 @@ The answer is simple: yes, you can fork Monica and create a competing project, m
 We wanted to open source Monica for several reasons:
 
 - **We believe that this tool can really change people’s lives.**
-  We aim to make money from this project, but also want everyone to benefit. Open sourcing it will help Monica become much bigger than we imagine. We believe the software should follow our vision, but we must be humble enough to recognize that ideas come from everywhere and people may have better ideas than us.
+  We aim to make money from this project, but also want everyone to benefit. Open sourcing Monica will help it become much bigger than we imagine. We believe the software should follow our vision, but we must be humble enough to recognize that ideas come from everywhere and people may have better ideas than us.
 - **You can’t make something great alone.**
   While Monica could become a company and hire a bunch of super smart people to work on it, you can’t beat the manpower of an entire community. Open sourcing the product means bugs will be fixed faster, features will be developed faster, and more importantly, developers will be able to contribute to a tool that positively changes their own lives and the lives of other people.
 - **Doing things in a transparent way leads to formidable things.**
